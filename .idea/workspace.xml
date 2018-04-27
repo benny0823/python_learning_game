@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4166447d-d51f-43f2-aed1-ea60539a5e6b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/python_learning_game.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/alien.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/alien_invasion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bullet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/ship.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ship.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/game_functions.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,8 +16,8 @@
       <file leaf-file-name="alien_invasion.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/alien_invasion.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="21" column="45" lean-forward="true" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+            <state relative-caret-position="128">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="e#2#15#0" expanded="true" />
               </folding>
@@ -39,8 +28,8 @@
       <file leaf-file-name="game_functions.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/game_functions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="903">
+              <caret line="97" column="37" lean-forward="true" selection-start-line="97" selection-start-column="37" selection-end-line="97" selection-end-column="37" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -48,14 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="game_functions.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Downloads/ehmatthes-pcc-v1.0.0-10-g6bfeca0/ehmatthes-pcc-6bfeca0/chapter_13/game_functions.py">
+      <file leaf-file-name="sprite.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Anaconda3/envs/python_test/Lib/site-packages/pygame/sprite.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="86" column="48" lean-forward="true" selection-start-line="86" selection-start-column="48" selection-end-line="86" selection-end-column="48" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="109">
+              <caret line="313" selection-start-line="313" selection-end-line="313" />
             </state>
           </provider>
         </entry>
@@ -63,8 +49,8 @@
       <file leaf-file-name="alien.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/alien.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+            <state relative-caret-position="190">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -110,6 +96,11 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>collisions</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -190,6 +181,24 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.alien_invasion">
+    <configuration name="alien_invasion (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_learning_game" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads/ehmatthes-pcc-v1.0.0-10-g6bfeca0/ehmatthes-pcc-6bfeca0/chapter_13" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/ehmatthes-pcc-v1.0.0-10-g6bfeca0/ehmatthes-pcc-6bfeca0/chapter_13/alien_invasion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="alien_invasion" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_learning_game" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -229,10 +238,12 @@
     <list>
       <item itemvalue="Python.alien_invasion" />
       <item itemvalue="Python.settings" />
+      <item itemvalue="Python.alien_invasion (1)" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.alien_invasion" />
+        <item itemvalue="Python.alien_invasion (1)" />
         <item itemvalue="Python.settings" />
       </list>
     </recent_temporary>
@@ -258,12 +269,12 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32961783" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32961783" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32961783" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39968154" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39968154" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -285,7 +296,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -313,40 +324,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/ehmatthes-pcc-v1.0.0-10-g6bfeca0/ehmatthes-pcc-6bfeca0/chapter_13/alien_invasion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Downloads/ehmatthes-pcc-v1.0.0-10-g6bfeca0/ehmatthes-pcc-6bfeca0/chapter_13/alien.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="35" column="28" lean-forward="true" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+        <state relative-caret-position="56">
+          <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/alien_invasion.py">
+    <entry file="file://$USER_HOME$/Anaconda3/envs/python_test/Lib/site-packages/pygame/sprite.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="21" column="45" lean-forward="true" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
-          <folding>
-            <element signature="e#2#15#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="109">
+          <caret line="313" selection-start-line="313" selection-end-line="313" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/alien.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        <state relative-caret-position="190">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/ehmatthes-pcc-v1.0.0-10-g6bfeca0/ehmatthes-pcc-6bfeca0/chapter_13/alien_invasion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="34" column="29" lean-forward="true" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
@@ -355,18 +363,28 @@
     </entry>
     <entry file="file://$USER_HOME$/Downloads/ehmatthes-pcc-v1.0.0-10-g6bfeca0/ehmatthes-pcc-6bfeca0/chapter_13/game_functions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="86" column="48" lean-forward="true" selection-start-line="86" selection-start-column="48" selection-end-line="86" selection-end-column="48" />
+        <state relative-caret-position="-1463">
+          <caret line="79" column="43" lean-forward="true" selection-start-line="79" selection-start-column="43" selection-end-line="79" selection-end-column="43" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/alien_invasion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#2#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/game_functions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="903">
+          <caret line="97" column="37" lean-forward="true" selection-start-line="97" selection-start-column="37" selection-end-line="97" selection-end-column="37" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
